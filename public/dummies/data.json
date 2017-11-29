@@ -1,0 +1,92 @@
+{
+  "feed_list": [
+    {
+      "feed_name": "Seguimiento A",
+      "isFolder": 1,
+      "guidelines_list": [
+        { "guideline_name": "Pauta A Uno",
+          "blocks_list_id": [1,2,3],
+          "guideline_count": 5,
+          "isFolder": 1,
+          "blocks_list": [
+            {
+              "block_name": "Bloque A",
+              "block_count": 3
+            },
+            {
+              "block_name": "Bloque B",
+              "block_count": 1
+            },
+            {
+              "block_name": "Bloque C",
+              "block_count": 2
+            }
+          ]
+        },
+        { "guideline_name": "Pauta A Dos",
+          "blocks_list_id": [1,2,3],
+          "guideline_count": 5,
+          "isFolder": 1,
+          "blocks_list": [
+            {
+              "block_name": "Bloque D",
+              "block_count": 3
+            },
+            {
+              "block_name": "Bloque E",
+              "block_count": 1
+            },
+            {
+              "block_name": "Bloque F",
+              "block_count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feed_name": "Seguimiento B",
+      "isFolder": 1,
+      "guidelines_list": [
+        { "guideline_name": "Pauta B Uno",
+          "blocks_list_id": [1,2,3],
+          "guideline_count": 5,
+          "isFolder": 1,
+          "blocks_list": [
+            {
+              "block_name": "Bloque G",
+              "block_count": 3
+            },
+            {
+              "block_name": "Bloque H",
+              "block_count": 1
+            },
+            {
+              "block_name": "Bloque I",
+              "block_count": 2
+            }
+          ]
+        },
+        { "guideline_name": "Pauta B Dos",
+          "blocks_list_id": [1,2,3],
+          "guideline_count": 5,
+          "isFolder": 1,
+          "blocks_list": [
+            {
+              "block_name": "Bloque J",
+              "block_count": 3
+            },
+            {
+              "block_name": "Bloque K",
+              "block_count": 1
+            },
+            {
+              "block_name": "Bloque L",
+              "block_count": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
