@@ -3,11 +3,14 @@
     {
       "feed_name": "Seguimiento A",
       "isFolder": 1,
+      "isOpen": 1,
       "guidelines_list": [
         { "guideline_name": "Pauta A Uno",
           "blocks_list_id": [1,2,3],
-          "guideline_count": 5,
-          "isFolder": 1,
+          "idFeed":305,
+          "idGupi":30530,
+          "guideline_count": 3,
+          "isFolder": 0,
           "blocks_list": [
             {
               "block_name": "Bloque A",
@@ -25,8 +28,10 @@
         },
         { "guideline_name": "Pauta A Dos",
           "blocks_list_id": [1,2,3],
-          "guideline_count": 5,
-          "isFolder": 1,
+          "idFeed":305,
+          "idGupi":30530,
+          "guideline_count": 6,
+          "isFolder": 0,
           "blocks_list": [
             {
               "block_name": "Bloque D",
@@ -46,12 +51,15 @@
     },
     {
       "feed_name": "Seguimiento B",
-      "isFolder": 1,
+      "isFolder": 0,
+      "isOpen": 1,
       "guidelines_list": [
         { "guideline_name": "Pauta B Uno",
           "blocks_list_id": [1,2,3],
           "guideline_count": 5,
-          "isFolder": 1,
+          "idFeed":305,
+          "idGupi":30530,
+          "isFolder": 0,
           "blocks_list": [
             {
               "block_name": "Bloque G",
@@ -69,8 +77,10 @@
         },
         { "guideline_name": "Pauta B Dos",
           "blocks_list_id": [1,2,3],
-          "guideline_count": 5,
-          "isFolder": 1,
+          "idFeed":305,
+          "idGupi":30530,
+          "guideline_count": 4,
+          "isFolder": 0,
           "blocks_list": [
             {
               "block_name": "Bloque J",

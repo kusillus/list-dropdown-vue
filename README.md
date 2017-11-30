@@ -2,6 +2,10 @@
 
 > example drop down list tree levels in vuejs
 
+![alt text][logo]
+
+[logo]: https://media.giphy.com/media/3o6fJ6Tlqp0KFgdfwc/giphy.gif "Dropdown list vue"
+
 ## Build Setup
 
 ``` bash
